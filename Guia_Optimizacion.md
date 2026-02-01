@@ -1,7 +1,7 @@
 # - Kenif - Programmer ELNexoCenter.
 # - github.com/ElNexoCenter
 
-# NEXO DYNAMIC | Guia Pro de Optimizacion de FPS
+# NEXO DYNAMIC | Guia Pro de Optimizacion de FPS y Fotogramas.
 
 ## ¿Que es Nexo Dynamic FPS Booster?
 Este conjunto de scripts ha sido diseñado para maximizar el rendimiento de tu PC, eliminando procesos innecesarios de Windows, optimizando la comunicacion de red y priorizando el uso de la CPU para tus juegos favoritos.
