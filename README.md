@@ -10,7 +10,7 @@
 
 ---
 
-# NEXO DYNAMIC V1.0
+# NEXO DYNAMIC V1.5
 
 Nexo Dynamic representa la vanguardia en la optimización modular de sistemas operativos Windows. Este repositorio centraliza una serie de algoritmos de automatización diseñados para reducir la latencia de procesamiento, eliminar procesos redundantes del Kernel y estabilizar el flujo de datos en entornos de alta demanda.
 
